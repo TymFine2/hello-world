@@ -1,2 +1,3 @@
 # hello-world
 CIS 129
+I am a new and somewhat confused college student, who doesn't play around....
